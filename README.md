@@ -6,10 +6,10 @@ The **Deep Intelligence Lab Photoplethysmography (DILPPG)** dataset is an in-hou
 
 ## 📋 Dataset Overview
 
-| Dataset | Statistics | Min (mmHg) | Max (mmHg) | Mean (mmHg) | STD (mmHg) |
-|---------|------------|------------|------------|--------------|------------|
-| DILPPG  | SBP        | 84         | 164        | 113.73       | 13.24      |
-|         | DBP        | 55         | 111        | 72.48        | 8.79       |
+   | Statistics | Min (mmHg) | Max (mmHg) | Mean (mmHg) | STD (mmHg) |
+   |------------|------------|------------|--------------|------------|
+   | SBP        | 84         | 164        | 113.73       | 13.24      |
+   | DBP        | 55         | 111        | 72.48        | 8.79       |
 
 ---
 
