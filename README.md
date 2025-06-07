@@ -15,7 +15,7 @@ The **Deep Intelligence Lab Photoplethysmography (DILPPG)** dataset is an in-hou
 
 ## 🧪 Data Collection Protocol
 
-![Data Collection Setup](images/BP-collection(PPG-BP).png)
+![Data Collection Setup](-DILPPG-Dataset/images/BP-collection(PPG-BP).png)
 
 1. **Consent Taking**  
    Participants were first briefed on the study procedure, and informed consent was obtained from those who agreed to participate.
