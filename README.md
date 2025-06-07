@@ -46,11 +46,10 @@ DILPPG/
 ##  Citation
 ```bash
 @misc{DILPPG2025,
-  title={DILPPG: Deep Intelligence Lab Photoplethysmography Dataset},
-  author={Your Name and Contributors},
+  title={VOLEMIA: Non-Invasive Blood Pressure Estimation Using Temporal-Spectral Convolutional Network},
+  author={Trishna Saikia and Satwik Vankayalapati and Puneet Gupta and Pasi Liljeberg},
+  journal={Digital Signal Processing},
   year={2025},
-  howpublished={\url{https://github.com/<your-repo-link>}},
-  note={Accessed on: [Date]}
+  publisher={Elsevier}
 }
-
 
