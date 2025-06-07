@@ -42,4 +42,15 @@ DILPPG/
 ├── ppg_data/                 # Each subject has two CSV files containing PPG signals. For example, subject S1 has files named S1_1.csv and S1_2.csv, with each file containing 90 seconds of PPG recordings.
 ├── bp_data/                  # Subject-wise BP labels  
 └── README.md                 # This file
+```
+##  Citation
+```bash
+@misc{DILPPG2025,
+  title={DILPPG: Deep Intelligence Lab Photoplethysmography Dataset},
+  author={Your Name and Contributors},
+  year={2025},
+  howpublished={\url{https://github.com/<your-repo-link>}},
+  note={Accessed on: [Date]}
+}
+
 
