@@ -1,4 +1,4 @@
-![BP-collection(PPG-BP)](https://github.com/user-attachments/assets/cbc709aa-6175-40f3-bc11-653b4413e295)# DILPPG-Dataset
+# DILPPG-Dataset
 
 The **Deep Intelligence Lab Photoplethysmography (DILPPG)** dataset is an in-house curated resource designed to facilitate research in cuffless blood pressure estimation using photoplethysmography (PPG) signals. It includes synchronized measurements of systolic and diastolic blood pressure (SBP/DBP) along with corresponding PPG recordings.
 
