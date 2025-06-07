@@ -15,6 +15,8 @@ The **Deep Intelligence Lab Photoplethysmography (DILPPG)** dataset is an in-hou
 
 ## 🧪 Data Collection Protocol
 
+![Data Collection Setup](images/BP-collection(PPG-BP).png)
+
 1. **Consent Taking**  
    Participants were first briefed on the study procedure, and informed consent was obtained from those who agreed to participate.
 
@@ -37,8 +39,7 @@ The **Deep Intelligence Lab Photoplethysmography (DILPPG)** dataset is an in-hou
 
 ```bash
 DILPPG/
-├── raw_data/                  # Raw PPG signals and BP labels
-├── metadata/                  # Subject-wise metadata (e.g., age, gender)
-├── documentation/             # PDF versions of figures and forms
-└── README.md                  # This file
+├── ppg_data/                 # Each subject has two CSV files containing PPG signals. For example, subject S1 has files named S1_1.csv and S1_2.csv, with each file containing 90 seconds of PPG recordings.
+├── bp_data/                  # Subject-wise BP labels  
+└── README.md                 # This file
 
