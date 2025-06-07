@@ -35,14 +35,13 @@ The **Deep Intelligence Lab Photoplethysmography (DILPPG)** dataset is an in-hou
 
 ---
 
-## 📁 Folder Structure
+## Dataset Access
 
-```bash
-DILPPG/
-├── ppg_data/                 # Each subject has two CSV files containing PPG signals. For example, subject S1 has files named S1_1.csv and S1_2.csv, with each file containing 90 seconds of PPG recordings.
-├── bp_data/                  # Subject-wise BP labels  
-└── README.md                 # This file
-```
+Please note that this dataset could be used for research purposes only, and any commercial use of the data is prohibited. To access this dataset, send a request to the following email addresses:
+* phd2201101014@iiti.ac.in
+* deeplearning@iiti.ac.in 
+
+
 ##  Citation
 ```bash
 @misc{DILPPG2025,
